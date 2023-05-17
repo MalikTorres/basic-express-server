@@ -10,7 +10,7 @@ This very basic express server is used to test out middleware
 ### Links and Resources
 
 - [GitHub Actions ci/cd](https://github.com/MalikTorres/basic-express-server)
-- [back-end server](https://server-deployment-practice-piak.onrender.com)
+- [back-end server](https://basic-express-server-c54q.onrender.com/person?name=Malik)
 
 
 ### Collaborators
